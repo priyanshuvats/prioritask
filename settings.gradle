@@ -1,0 +1,5 @@
+rootProject.name = 'prioritask'
+include 'prioritask-client'
+include 'prioritask-domain'
+include 'prioritask-service'
+
